@@ -49,7 +49,7 @@ After running, open the provided link to interact with the model.
 - **Generated Text**: Assesses coherence and fluency.
 
 ## Example Output
-![Output Example](output_example.png)
+![Output Example](output_example.jpg)
 ```text
 Input: "Artificial intelligence is"
 Output: "Artificial intelligence is transforming the future of technology and human interactions."
