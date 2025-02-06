@@ -1,7 +1,7 @@
 # Neural Language Model using RNNs/Transformers
 
 ## Overview
-![Gradio Interface](gradio_demo.png)
+![Gradio Interface](output_example.jpg)
 This project implements a **Neural Language Model (NLM)** using **Recurrent Neural Networks (RNNs)** or **Transformers**. The model is trained on a large text corpus and evaluated based on **perplexity** and **text generation quality**.
 
 ## Features
