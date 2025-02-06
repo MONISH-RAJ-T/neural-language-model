@@ -1,7 +1,7 @@
 # Neural Language Model using RNNs/Transformers
 
 ## Overview
-![Gradio Interface](output_example.jpg)
+
 This project implements a **Neural Language Model (NLM)** using **Recurrent Neural Networks (RNNs)** or **Transformers**. The model is trained on a large text corpus and evaluated based on **perplexity** and **text generation quality**.
 
 ## Features
@@ -56,7 +56,7 @@ Output: "Artificial intelligence is transforming the future of technology and hu
 ```
 
 ## Repository Link
-[GitHub Repository](https://github.com/yourusername/neural-language-model)
+[GitHub Repository]()
 
 ## License
 This project is open-source and available under the MIT License.
